@@ -1,0 +1,7 @@
+requests
+scikit-learn
+ebooklib
+beautifulsoup4
+chromadb
+ollama
+numpy

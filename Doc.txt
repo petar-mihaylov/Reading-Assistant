@@ -1,0 +1,7 @@
+Documentation
+
+This is an example usage of locally deployed LLM llama3.2 with ollama.
+llama3.2 can be used for embeddings, nevertheless its other great capabilities.
+Using the advantage of ollama to have it run locally, we add the powerful technique RAG
+(Retrieval-Augmented Generation). 
+This project is maximally simple and can be upgraded to chat with the LLM, Voicechat.
